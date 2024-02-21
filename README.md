@@ -1,14 +1,21 @@
-# Audio-player-app
+## Setup 
+Open your terminal (cmd, powershell, git bash)
+Clone this repository by :
+
+git clone https://github.com/supekarsuraj/ChainTech-Network.git
+
+Enter to the repository folder :
+
+cd ChainTech-Network
+cd backend
+
+Install all required dependencies using npm or you can also use` yarn`:
+
+npm install or yarn install
 
 
-### Installation
+## How to use 
+Now it's time to use API endpoints.
+1. start node.js server
 
-
-1. Clone the repository to your local machine: 
-2. Navigate to the project directory:
-3. Install dependencies using npm:
-
-
-
-
-
+npm start
