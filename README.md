@@ -2,7 +2,7 @@
 Open your terminal (cmd, powershell, git bash)
 Clone this repository by :
 
-git clone https://github.com/supekarsuraj/ChainTech-Network.git
+git clone https://github.com/supekarsuraj/audio-player-app.git
 
 Enter to the repository folder :
 
